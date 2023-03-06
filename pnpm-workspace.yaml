@@ -1,0 +1,4 @@
+packages:
+  - 'conf/**'
+  - 'cyber-ui/**/**'
+  - 'packages/**/**'

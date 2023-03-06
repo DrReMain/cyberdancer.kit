@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# `exec > terminal.log` 当面终端会话之后的标准输出都写入terminal.log
+# `exec < /dev/tty`     重定向标准输出为当前终端会话
+exec < /dev/tty && git cz --hook || true
