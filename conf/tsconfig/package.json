@@ -1,0 +1,11 @@
+{
+  "name": "@cyberdancer/tsconfig",
+  "version": "0.1.0",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "publish": "npm publish --registry=https://registry.npmjs.org/"
+  }
+}
