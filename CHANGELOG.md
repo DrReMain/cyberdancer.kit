@@ -1,5 +1,5 @@
 # 0.1.0 (2023-03-07)
 
-### feat
+### Features
 
-- add changelog ([394f8bf](https://github.com/DrReMain/cyberdancer.kit/commit/394f8bf9d2d23db3efa5c3adcd5ba56e3bdf7518))
+- **changelog:** use conventional-changelog as default changelog ([d6a84bd](https://github.com/DrReMain/cyberdancer.kit/commit/d6a84bdb9626ec9a9c0172b6479eaadb89644f85))
